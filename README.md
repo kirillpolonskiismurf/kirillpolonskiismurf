@@ -10,4 +10,4 @@
 ### Проекты
 #### <img src="kirillpolonskiismurf/test/presentation/ic_launcher-playstore.png" width="40" height="40" align="top"> MemoryTraining
 Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок.
-<img src="kirillpolonskiismurf/test/presentation/MemoryTraining_presentation.gif" width="290" height="600">
+<img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation/MemoryTraining_presentation.gif" width="290" height="600">
