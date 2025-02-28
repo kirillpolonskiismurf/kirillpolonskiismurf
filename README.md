@@ -8,6 +8,19 @@
 
 ## Стараюсь не сидеть без дела
 ### Проекты
-#### <img src="kirillpolonskiismurf/test/presentation/ic_launcher-playstore.png" width="40" height="40" align="top"> MemoryTraining
+#### <img src="https://github.com/kirillpolonskiismurf/test/blob/main/presentation/ic_launcher-playstore.png" width="30" height="30" align="center"> &nbsp;MemoryTraining
 Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок.
+&nbsp;
+
 <img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation/MemoryTraining_presentation.gif" width="290" height="600">
+
+#### Coming soon
+- "Осознанные сны": мобильное приложение для ведения дневника снов и практики метода тестирования реальности
+
+### Задачки
+#### Codeforces
+место для общей статистики
+
+#### Coming soon
+- Leetcode
+- Codewars
