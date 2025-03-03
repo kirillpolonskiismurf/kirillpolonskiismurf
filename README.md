@@ -17,9 +17,9 @@
 #### Coming soon
 - "Осознанные сны": мобильное приложение для ведения дневника снов и практики метода тестирования реальности
 
-### Задачки
-#### Codeforces
-место для общей статистики
+### Алгоритмические задачи
+#### Codeforces (сложность-количество)
+![место для общей статистики](https://github.com/kirillpolonskiismurf/TestDir/blob/main/presentation/cur_overall_stats_codeforces.png)
 
 #### Coming soon
 - Leetcode
